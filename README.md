@@ -264,19 +264,6 @@ This analysis focuses on developed countries with explicit $100B commitments. Ch
 - Continues through 2025
 - **New goal for 2025+** under negotiation at COP29
 
----
-
-## 🗺️ Future Enhancements
-
-**Planned for v2.0:**
-- [ ] Per capita emissions analysis
-- [ ] Historical cumulative emissions
-- [ ] Adaptation vs mitigation finance breakdown
-- [ ] Income group comparisons
-- [ ] Interactive visualizations (Plotly)
-- [ ] Time series (2013-2024 trends)
-- [ ] Regression analysis with additional variables
-
 **Ideas Welcome!** Open an issue to suggest improvements.
 
 ---
@@ -356,7 +343,6 @@ Open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/phoebelamb)
 **This project is part of a climate policy analysis series:**
 - **Part 1**: [Emissions vs Paris Agreement Targets](https://github.com/phoebelamb411/Paris_Agreement_Part_1) ✅
 - **Part 2**: Climate Finance vs Emissions (this repo) ✅
-- **Part 3**: Coming soon – Climate finance effectiveness analysis
 
 ---
 
